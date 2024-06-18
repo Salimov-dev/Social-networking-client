@@ -8,8 +8,8 @@ import ThemeProvider from "./app/components/theme-provider/index.tsx";
 import Auth from "./app/pages/auth/index.tsx";
 import { Layout } from "./app/components/layout/index.tsx";
 import { Posts } from "./app/pages/posts/index.tsx";
-import CurrentPost from "./app/pages/current-post/index.tsx";
-import UserProfile from "./app/pages/user-profile/index.tsx";
+import { CurrentPost } from "./app/pages/current-post/index.tsx";
+import { UserProfile } from "./app/pages/user-profile/index.tsx";
 import Followers from "./app/pages/followers.tsx/index.tsx";
 import Following from "./app/pages/following/index.tsx";
 
